@@ -384,9 +384,15 @@ background-size: cover;
     color: #434455;
     text-align: left;
 }
-.our-line:hover .portfolio-cont .text-app {
+
+.our-line:hover .text-app{
     transform: translateY(0%);
 }
+
+
+
+
+
 /* footer */
 .our-footer{
     background-color: #2e2f42;
