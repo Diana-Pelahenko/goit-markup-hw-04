@@ -383,6 +383,8 @@ background-size: cover;
     letter-spacing: 0.02em;
     color: #434455;
     text-align: left;
+}
+.text-app:hover{
     transform: translateY(0%);
 }
 
