@@ -385,8 +385,10 @@ background-size: cover;
     text-align: left;
 }
 
-.our-line:hover .portfolio-cont {
-        transform: translateY(0%);}
+.our-line:hover .transform-text {
+        transform: translateY(0%);
+    }
+    
 
 
 
