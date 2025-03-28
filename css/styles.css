@@ -284,6 +284,7 @@ background-size: cover;
     display: flex;
     justify-content: center;
     gap: 24px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-icons-item{
     width: 40px;
@@ -298,9 +299,19 @@ background-size: cover;
     display: flex;
     align-items: center;
     align-items: center;
+    justify-content: center;
+
 }
 .social-links:hover{
     background-color: #404bbf;
+}
+
+.social-links:focus{
+    background-color: #404bbf
+}
+
+.socical-icon{
+    fill: #f4f4fd;
 }
 
 
