@@ -386,7 +386,7 @@ background-size: cover;
 }
 .our-line:hover .portfolio-cont .text-app {
     transform: translateY(0%);
-
+}
 /* footer */
 .our-footer{
     background-color: #2e2f42;
