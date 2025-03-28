@@ -388,7 +388,16 @@ background-size: cover;
 .our-line:hover .transform-text {
         transform: translateY(0%);
     }
-    
+
+   .transform-text{
+    position: absolute;
+    top: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    padding: 40px 32px;
+    background-color: #4d5ae5;
+   }
 
 
 
