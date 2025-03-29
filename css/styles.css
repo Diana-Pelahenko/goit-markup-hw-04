@@ -447,6 +447,9 @@ background-size: cover;
     color: #f4f4fd;
     max-width: 264px;
 }
+.footer-social{
+    margin-right: 120px
+}
 .footer-all{
     display: flex;
         align-items: baseline;
