@@ -486,3 +486,8 @@ background-size: cover;
 .footer-social-icon {
     fill: #f4f4fd;
 }
+.container{
+    width: 1158px;
+        padding: 0 15px;
+        margin: 0 auto;
+}
