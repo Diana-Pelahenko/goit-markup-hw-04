@@ -448,7 +448,9 @@ background-size: cover;
         max-width: 264px;
     }
     .footer-icons{
-    margin-right: 120px
+    margin-right: 120px;
+    display: flex;
+    align-items: baseline;
     }
     .footer-text-sosical{
         font-weight: 500;
