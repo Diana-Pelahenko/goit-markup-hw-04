@@ -450,6 +450,7 @@ background-size: cover;
 .footer-all{
     display: flex;
         align-items: baseline;
+        margin-right: 120px
 }
 .footer-social-text {
     font-weight: 500;
